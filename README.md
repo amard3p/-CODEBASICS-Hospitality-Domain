@@ -8,7 +8,7 @@ percentages, and booking trends by various categories.
 
 #### Key Metrics
 ![CODEBASICS Hospitality Domain](https://github.com/amard3p/amard3p.github.io/blob/fd3cec2e2f2adea2cef135c195328c9c6a0650ff/projects/CodeBasics.io_hospitality%20domain/Atliq%20Hospitality%20Overview.png)
-<a href='https://public.tableau.com/views/CODEBASICSHospitalityDomainDashboardAnalysisReport/AtliqHospitalityOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'> live Dashboard</a>  
+<a href='https://public.tableau.com/views/CODEBASICSHospitalityDomainDashboardAnalysisReport/AtliqHospitalityOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'>## live Dashboard </a>  
 
 ---
 
